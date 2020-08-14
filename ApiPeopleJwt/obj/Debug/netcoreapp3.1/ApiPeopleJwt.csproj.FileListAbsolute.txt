@@ -1,0 +1,5 @@
+D:\network\Squadra\WebApiPessoas\ApiPeopleJwt\ApiPeopleJwt\obj\Debug\netcoreapp3.1\ApiPeopleJwt.csprojAssemblyReference.cache
+D:\network\Squadra\WebApiPessoas\ApiPeopleJwt\ApiPeopleJwt\obj\Debug\netcoreapp3.1\ApiPeopleJwt.AssemblyInfoInputs.cache
+D:\network\Squadra\WebApiPessoas\ApiPeopleJwt\ApiPeopleJwt\obj\Debug\netcoreapp3.1\ApiPeopleJwt.AssemblyInfo.cs
+D:\network\Squadra\WebApiPessoas\ApiPeopleJwt\ApiPeopleJwt\obj\Debug\netcoreapp3.1\ApiPeopleJwt.csproj.CoreCompileInputs.cache
+D:\network\Squadra\WebApiPessoas\ApiPeopleJwt\ApiPeopleJwt\obj\Debug\netcoreapp3.1\ApiPeopleJwt.MvcApplicationPartsAssemblyInfo.cache
