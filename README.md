@@ -1,1 +1,1 @@
-Aplicação Demo com autenticação JWT e Teste Unitário
+Aplicação Demo com autenticação JWT e Teste Unitário para estudo
